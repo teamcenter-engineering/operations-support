@@ -1,2 +1,2 @@
-Hello All...
-Git commands are very important
+Hello this file contains the deployment script
+Hello, we are in dev branch
